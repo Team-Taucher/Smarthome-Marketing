@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 410" width="410" height="410">
+    <defs>
+        <clipPath id="a">
+            <path fill="none" d="M0 0h410v410H0z"/>
+        </clipPath>
+        <linearGradient id="b" x1="-475.9" x2="-476.7" y1="591.1" y2="589.2" data-name="Unbenannter Verlauf" gradientTransform="matrix(0 410 410 0 -241967 195392)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6852ed"/>
+            <stop offset="1" stop-color="#b713fb"/>
+        </linearGradient>
+    </defs>
+    <g clip-path="url(#a)">
+        <circle cx="205" cy="205" r="205" fill="url(#b)"/>
+    </g>
+</svg>

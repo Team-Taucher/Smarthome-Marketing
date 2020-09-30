@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2290" height="520" viewBox="0 0 2290 520">
+    <linearGradient id="a" x1="-712.3" x2="-712.1" y1="95.1" y2="96.9" data-name="Unbenannter Verlauf" gradientTransform="rotate(40 -112979.25 521676) scale(505.5)" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#6852ed"/>
+        <stop offset="1" stop-color="#b713fb"/>
+    </linearGradient>
+    <linearGradient id="b" x1="-706.6" x2="-706.6" y1="102" y2="103" data-name="Unbenannter Verlauf 2" gradientTransform="translate(156939.5 -22095.7) scale(219.53)" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fccd05"/>
+        <stop offset="1" stop-color="#fccd05" stop-opacity=".9"/>
+    </linearGradient>
+    <circle cx="2035.3" cy="255.1" r="252.8" fill="url(#a)"/>
+    <circle cx="1823.8" cy="408.8" r="109.8" fill="url(#b)"/>
+</svg>

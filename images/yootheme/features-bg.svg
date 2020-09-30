@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2240" height="620" viewBox="0 0 2240 620">
+    <linearGradient id="a" x1="-372.2" x2="-373" y1="76.8" y2="74.9" gradientTransform="matrix(0 616.71 616.71 0 -46807.2 229957)" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#6852ed"/>
+        <stop offset="1" stop-color="#b713fb"/>
+    </linearGradient>
+    <circle cx="308" cy="310" r="308" fill="url(#a)"/>
+</svg>

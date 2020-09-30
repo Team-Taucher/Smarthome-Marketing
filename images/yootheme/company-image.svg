@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="210" viewBox="0 0 210 210">
+    <linearGradient id="svg-gradient-circle-scroll-down" x1="-1148.9" x2="-1148.9" y1="-205.3" y2="-204.3" gradientTransform="translate(238542.1 42606.8) scale(207.53)" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fccd05"/>
+        <stop offset="1" stop-color="#fccd05" stop-opacity=".9"/>
+    </linearGradient>
+    <circle class="uk-preserve" cx="105" cy="105" r="104" fill="url(#svg-gradient-circle-scroll-down)"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="M127.3 109.8L105 134.7l-22.3-24.8"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5" d="M105 75.6v59"/>
+</svg>
